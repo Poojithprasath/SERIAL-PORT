@@ -44,7 +44,11 @@ MOV SBUF, A
 ```
 
 ### OUTPUT:
+### (i) Serial Port Transfer a Single Character
 <img width="871" height="401" alt="image" src="https://github.com/user-attachments/assets/06a263fe-eae8-46da-a533-89d06d2a2782" />
+
+### (ii) Serial Port to Transfer a Message
+<img width="1306" height="534" alt="image" src="https://github.com/user-attachments/assets/bd30f406-ca39-47ea-8c43-ac81b944e38a" />
 
 
 ### RESULT:
