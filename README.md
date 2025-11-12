@@ -12,7 +12,8 @@ To write and execute an Embedded C Program for Serial Transfer of Single Byte / 
 
 ### (i) Serial Port Transfer a Single Character
 
-```
+```asm
+
 ORG 00H 
 MOV TMOD, #20H 
 MOV TH1, #0FDH 
@@ -26,7 +27,8 @@ MOV SBUF, #'B'
 ```
 ### (ii) Serial Port to Transfer a Message
 
-```
+```c
+
 #include <reg51.h>
 void main(void)
 {
